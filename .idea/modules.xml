@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/crs20120610110102wanlifeng.iml" filepath="$PROJECT_DIR$/crs20120610110102wanlifeng.iml" />
+      <module fileurl="file://$PROJECT_DIR$/project10_BlueToothChat/project10_BlueToothChat.iml" filepath="$PROJECT_DIR$/project10_BlueToothChat/project10_BlueToothChat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/project1_HelloWorld/project1_HelloWorld.iml" filepath="$PROJECT_DIR$/project1_HelloWorld/project1_HelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/project2_java4phone_Calculator/project2_java4phone_Calculator.iml" filepath="$PROJECT_DIR$/project2_java4phone_Calculator/project2_java4phone_Calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/project3_Edit/project3_Edit.iml" filepath="$PROJECT_DIR$/project3_Edit/project3_Edit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/project4_Jump_Count/project4_Jump_Count.iml" filepath="$PROJECT_DIR$/project4_Jump_Count/project4_Jump_Count.iml" />
+      <module fileurl="file://$PROJECT_DIR$/project5_QQ_Layout/project5_QQ_Layout.iml" filepath="$PROJECT_DIR$/project5_QQ_Layout/project5_QQ_Layout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/project6_Calculator/project6_Calculator.iml" filepath="$PROJECT_DIR$/project6_Calculator/project6_Calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/project9_Circle_Revolve/project9_Circle_Revolve.iml" filepath="$PROJECT_DIR$/project9_Circle_Revolve/project9_Circle_Revolve.iml" />
+    </modules>
+  </component>
+</project>

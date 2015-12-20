@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="D:\program files\Android\Android Studio\gradle\gradle-2.8" />
+        <option name="gradleJvm" value="1.8" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/project10_BlueToothChat" />
+            <option value="$PROJECT_DIR$/project1_HelloWorld" />
+            <option value="$PROJECT_DIR$/project2_java4phone_Calculator" />
+            <option value="$PROJECT_DIR$/project3_Edit" />
+            <option value="$PROJECT_DIR$/project4_Jump_Count" />
+            <option value="$PROJECT_DIR$/project5_QQ_Layout" />
+            <option value="$PROJECT_DIR$/project6_Calculator" />
+            <option value="$PROJECT_DIR$/project9_Circle_Revolve" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,1 @@
+include ':project1_HelloWorld', ':project2_java4phone_Calculator', ':project3_Edit', ':project4_Jump_Count', ':project5_QQ_Layout', ':project6_Calculator', ':project9_Circle_Revolve', ':project10_BlueToothChat'
